@@ -1,2 +1,9 @@
-# node-react-viewtemplate-engine-app
-sample node.js app with react-viewtemplate-engine
+# node.js react-view-template sample admin
+react-view-template sample admin
+
+## Run
+```
+$npm install
+
+$npm start
+```
